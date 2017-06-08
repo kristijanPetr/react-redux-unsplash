@@ -1,0 +1,15 @@
+ul {
+  height: 681px;
+  overflow: hidden;
+  overflow-y: scroll;
+  width: 100%;
+  list-style-type: none;
+}
+
+li {
+  cursor: pointer;
+}
+
+.form-search{
+  margin-bottom: 10px;
+}
